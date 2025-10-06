@@ -49,8 +49,11 @@ plt.show()
 ```
 ### Output:
 ## Age_group_conditions Output:
+
 <img width="579" height="633" alt="image" src="https://github.com/user-attachments/assets/04f19850-0bcb-42f5-990d-2176eb39e104" />
+
 ## Visual Plot:
+
 <img width="835" height="645" alt="image" src="https://github.com/user-attachments/assets/ee433bdc-59e7-48e9-bc22-cff108e08d5e" />
 
 
